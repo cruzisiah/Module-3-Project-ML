@@ -3,10 +3,15 @@ Understanding why customers stop using a telecom service and determining ways to
 
 ## I. Overview
 Student name: Isiah Cruz
+
 Student pace: Part-Time
+
 Flatiron project review date: August 24, 2020
+
 Instructor name: Eli Thomas
+
 Module: 3
+
 Dataset: Telecom Churn Dataset
 https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
