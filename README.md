@@ -16,9 +16,7 @@ Dataset: Telecom Churn Dataset
 https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 
 ## II. Project & Problem Statement
-Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. Note that this is a binary classification problem.
-
-Most naturally, your audience here would be the telecom business itself, interested in losing money on customers who don't stick around very long. Are there any predictable patterns here?
+Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company.
 
 ## III. Repository Contents
 1) Dataset: 'bigml_59c28831336c6604c800002a 2.csv'
